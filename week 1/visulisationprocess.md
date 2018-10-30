@@ -66,4 +66,4 @@ The final step in the process is to determine ways to represent the data visuall
 
 * scientific visualisation
 
-* analytics.
+* visual analytics.
